@@ -1,0 +1,13 @@
+{
+    "cam" : {
+        "files":{
+
+        },
+        "pre_install":null,
+        "pre_uninstall":null,
+        "pre_update":null,
+        "post_install":null,
+        "post_uninstall":null,
+        "post_update":null
+    }
+}
